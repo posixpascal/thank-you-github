@@ -220,3 +220,4 @@ Signed,
 - Danil Dubrovsky ([@FRedEnergy](https://github.com/FRedEnergy)), Software Engineer and OSS contributor
 - Philippe Loctaux ([@ploctaux](https://github.com/ploctaux)), Software Developer
 - Gaurav Ragtah ([@gragtah](https://github.com/gragtah)), Student, Software Engineer, Startup founder
+- Pascal Raszyk ([@posixpascal](https://github.com/posixpascal)), Software Engineer
